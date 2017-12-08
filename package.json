@@ -1,0 +1,26 @@
+{
+  "name": "hexl",
+  "version": "1.0.0",
+  "description": "Display strings or buffers as bytes and ascii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonswain/hexl.git"
+  },
+  "keywords": [
+    "hex",
+    "ascii",
+    "buffer",
+    "string",
+    "display"
+  ],
+  "author": "Simon Swain <simon@simonswain.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonswain/hexl/issues"
+  },
+  "homepage": "https://github.com/simonswain/hexl#readme"
+}
